@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amit8830
+- 👋 Hi, I’m @amit8830
 - 👀 I’m interested in making Web Pages
 - 🌱 I’m currently learning Web Development Course
 - 💞️ I’m looking to collaborate on ...
